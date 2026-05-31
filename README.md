@@ -154,7 +154,7 @@ I'm currently working as a **Data Scientist & Team Leader** at **Join Venture Ai
 
 ## 📬 Contact
 
-📧 shams321karib@gmail.com | 📞 +880 1797470717 | 📍 93 South Bashabo, Dhaka-1214, Bangladesh
+📧 shams321karib@gmail.com  | 📍 93 South Bashabo, Dhaka-1214, Bangladesh
 
 ---
 
