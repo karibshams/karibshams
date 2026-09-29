@@ -1,26 +1,29 @@
 <div align="center">
 
-  <h1 align="center" style="font-size: 38px; font-weight: 800; letter-spacing: 2px;">
-    KARIB SHAMS
-  </h1>
+  <!-- Dynamic Motion Wave Header with Animated Name -->
+  <a href="https://github.com/karibshams">
+    <img src="https://readme-typing-svg.demolab.com?font=Cabinet+Grotesk&weight=900&size=42&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=800&height=90&lines=%E2%9E%A6+KARIB+SHAMS+%E2%97%86;%E2%9E%A6+AI+ARCHITECT+%E2%97%86;%E2%9E%A6+DATA+SCIENTIST+%E2%97%86" alt="Kinetic Name Header" />
+  </a>
 
-  <p align="center" style="font-size: 17px; color: #10B981; font-weight: 600;">
-    Senior Executive Data Scientist &bull; Computer Vision & GNN Researcher &bull; AI Team Lead
+  <p align="center" style="font-size: 18px; font-weight: 600; color: #34D399; letter-spacing: 1px;">
+    Applied Machine Learning &bull; Computer Vision & GNN Researcher &bull; Production Systems Engineer
   </p>
 
+  <!-- Kinetic Subtitle Stream -->
   <p align="center">
     <a href="https://github.com/karibshams">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Architecting+Scalable+Production+AI+%26+RAG+Systems;17%2B+Peer-Reviewed+Publications+%7C+Best+Paper+Award+Winner;Self-Supervised+Vision+%26+Graph+Neural+Networks;M.Sc.+Data+Science+(CGPA+3.91%2F4.00)+%7C+East+West+University" alt="Dynamic Typing Banner" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=A7F3D0&center=true&vCenter=true&random=false&width=780&lines=Building+Enterprise-Scale+Production+AI+%26+RAG+Systems;17%2B+Peer-Reviewed+Publications+%7C+Best+Paper+Award+Winner;Self-Supervised+Vision+%26+Graph+Neural+Networks;M.Sc.+Data+Science+(CGPA+3.91%2F4.00)+%E2%80%94+East+West+University" alt="Dynamic Stream" />
     </a>
   </p>
 
+  <!-- Clean Emerald Shields.io Navigation Hub -->
   <p align="center">
-    <a href="mailto:shams321karib@gmail.com"><img src="https://img.shields.io/badge/Email-shams321karib%40gmail.com-044e39?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" /></a>
-    <a href="https://linkedin.com/in/karib-shams-007975305"><img src="https://img.shields.io/badge/LinkedIn-karib--shams-044e39?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" /></a>
-    <a href="https://karib.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-karib.pythonanywhere.com-044e39?style=for-the-badge&logo=googlechrome&logoColor=10B981" alt="Portfolio" /></a>
-    <a href="https://github.com/karibshams"><img src="https://img.shields.io/badge/GitHub-karibshams-044e39?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" /></a>
-    <a href="https://orcid.org/0009-0005-2790-8734"><img src="https://img.shields.io/badge/ORCID-0009--0005--2790--8734-044e39?style=for-the-badge&logo=orcid&logoColor=10B981" alt="ORCID" /></a>
-    <a href="tel:+8801797470717"><img src="https://img.shields.io/badge/Phone-%2B8801797470717-044e39?style=for-the-badge&logo=whatsapp&logoColor=10B981" alt="Phone" /></a>
+    <a href="mailto:shams321karib@gmail.com"><img src="https://img.shields.io/badge/Email-shams321karib%40gmail.com-064e3b?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" /></a>
+    <a href="https://linkedin.com/in/karib-shams-007975305"><img src="https://img.shields.io/badge/LinkedIn-karib--shams-064e3b?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" /></a>
+    <a href="https://karib.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-karib.pythonanywhere.com-064e3b?style=for-the-badge&logo=googlechrome&logoColor=10B981" alt="Portfolio" /></a>
+    <a href="https://github.com/karibshams"><img src="https://img.shields.io/badge/GitHub-karibshams-064e3b?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" /></a>
+    <a href="https://orcid.org/0009-0005-2790-8734"><img src="https://img.shields.io/badge/ORCID-0009--0005--2790--8734-064e3b?style=for-the-badge&logo=orcid&logoColor=10B981" alt="ORCID" /></a>
+    <a href="tel:+8801797470717"><img src="https://img.shields.io/badge/Mobile-%2B880--1797--470717-064e3b?style=for-the-badge&logo=whatsapp&logoColor=10B981" alt="Phone" /></a>
   </p>
 
 </div>
@@ -29,7 +32,7 @@
 
 ### Executive Profile
 
-Data Scientist and AI/ML Engineer with hands-on experience designing and deploying deep learning pipelines, high-precision computer vision frameworks, NLP solutions, and enterprise RAG engines[cite: 1, 2]. Recognized with an international **Best Paper Award** and backed by **17 peer-reviewed publications**[cite: 1, 2]. Proven track record of spearheading technical teams, directing sprint architectures, and shipping production-grade intelligent systems[cite: 1, 2].
+Data Scientist and AI/ML Engineer[cite: 1] with hands-on experience designing and deploying deep learning pipelines[cite: 1], high-precision computer vision frameworks[cite: 1], NLP solutions[cite: 1], and enterprise RAG engines[cite: 1, 2]. Recognized with an international **Best Paper Award** and backed by **17 peer-reviewed publications**[cite: 1, 2]. Proven track record of spearheading technical teams[cite: 1, 2], directing sprint architectures[cite: 2], and shipping production-grade intelligent systems[cite: 1, 2].
 
 - **Location:** 93 South Bashabo, Dhaka-1214, Bangladesh[cite: 1, 2]
 - **Languages:** English (Advanced - C1), Bengali (Native)[cite: 1]
@@ -39,7 +42,7 @@ Data Scientist and AI/ML Engineer with hands-on experience designing and deployi
 
 ### Dynamic Skill Matrix & Toolchain
 
-#### Languages & Development
+#### Languages & Core Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/Python-064e3b?style=for-the-badge&logo=python&logoColor=10B981" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-064e3b?style=for-the-badge&logo=javascript&logoColor=10B981" alt="JavaScript" />
