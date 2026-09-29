@@ -1,151 +1,203 @@
 <div align="center">
 
-  <!-- Dynamic Typing SVG Banner -->
+  <!-- Green Dynamic Header Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&customColorList=059669,10B981,047857,064e3b,00dc82&height=180&section=header&text=KARIB%20SHAMS&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Data%20Scientist%20%7C%20Computer%20Vision%20%26%20NLP%20Researcher%20%7C%20AI%20Team%20Lead&descSize=18&descAlignY=58&descAlign=50" width="100%" alt="Karib Shams Banner" />
+
+  <!-- Animated Typing Line -->
   <a href="https://github.com/karibshams">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=650&lines=%E2%9C%A8+Hey+there!+I'm+Karib+Shams;%F0%9F%A4%96+AI+%2F+ML+Engineer+%26+Data+Scientist;%F0%9F%93%8A+Computer+Vision+%26+GNN+Researcher;%F0%9F%9A%80+Building+Scalable+Production+AI+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=750&lines=Building+Scalable+Production+AI+Systems;17%2B+Peer-Reviewed+Publications+%7C+Best+Paper+Award+Winner;Self-Supervised+Learning+%26+Graph+Neural+Networks;M.Sc.+Data+Science+(CGPA+3.91%2F4.00)" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <strong>Senior Executive Data Scientist & Team Leader</strong> • <strong>17+ Publications (Best Paper Award)</strong> • <strong>M.Sc. Data Science</strong>
-  </p>
+  <br/><br/>
 
-  <!-- Connect Badges -->
-  <p align="center">
-    <a href="mailto:shams321karib@gmail.com"><img src="https://img.shields.io/badge/Email-shams321karib%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/karib-shams-007975305"><img src="https://img.shields.io/badge/LinkedIn-karib--shams-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://karib.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-karib.pythonanywhere.com-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://orcid.org/0009-0005-2790-8734"><img src="https://img.shields.io/badge/ORCID-0009--0005--2790--8734-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
-    <a href="https://scholar.google.com"><img src="https://img.shields.io/badge/Google_Scholar-Karib_Shams-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar" /></a>
-  </p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,32&height=120&section=header"/>
+  <!-- High-Fidelity SVG Badges (Emerald / Forest Theme) -->
+  <a href="mailto:shams321karib@gmail.com"><img src="https://img.shields.io/badge/Email-shams321karib%40gmail.com-064e3b?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/karib-shams-007975305"><img src="https://img.shields.io/badge/LinkedIn-karib--shams-064e3b?style=for-the-badge&logo=linkedin&logoColor=10B981" alt="LinkedIn" /></a>
+  <a href="https://karib.pythonanywhere.com"><img src="https://img.shields.io/badge/Portfolio-karib.pythonanywhere.com-064e3b?style=for-the-badge&logo=googlechrome&logoColor=10B981" alt="Portfolio" /></a>
+  <a href="https://github.com/karibshams"><img src="https://img.shields.io/badge/GitHub-karibshams-064e3b?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" /></a>
+  <a href="https://orcid.org/0009-0005-2790-8734"><img src="https://img.shields.io/badge/ORCID-0009--0005--2790--8734-064e3b?style=for-the-badge&logo=orcid&logoColor=10B981" alt="ORCID" /></a>
+  <a href="tel:+8801797470717"><img src="https://img.shields.io/badge/Phone-%2B880--1797--470717-064e3b?style=for-the-badge&logo=whatsapp&logoColor=10B981" alt="Phone" /></a>
 
 </div>
 
-### 🧠 About Me
-
-AI/ML Engineer and Data Scientist based in Dhaka, Bangladesh[cite: 1, 2, 3]. Specializing in deep learning, computer vision, NLP, and RAG pipelines with extensive experience deploying production-grade artificial intelligence systems[cite: 1]. 
-
-* 🔭 **Current Focus:** Leading R&D initiatives, architecting multimodal systems, and deploying scalable agentic workflows[cite: 1, 2, 3].
-* 🏆 **Research Track Record:** Co-authored **17 peer-reviewed publications** across Data Science, Computer Vision, and NLP[cite: 1, 2], including a **Best Paper Award** at AII 2025 (Washington, D.C., USA)[cite: 1, 2].
-* 🌾 **Core Thesis:** Self-Supervised Learning & Graph-Refined Object Detection for Precision Agriculture[cite: 1].
-* 💬 **Ask me about:** PyTorch, Self-Supervised Frameworks (DINO, SimCLR, BYOL), Graph Neural Networks, RAG, and MLOps automation[cite: 1, 2].
+<br/>
 
 ---
 
-### 🚀 Upcoming & Featured Deployments
+### Executive Profile
+
+Data Scientist and AI/ML Engineer with extensive experience developing deep learning architectures, computer vision pipelines, natural language processing models, and enterprise Retrieval-Augmented Generation (RAG) systems[cite: 1, 2]. Backed by **17 peer-reviewed academic publications**—including an international **Best Paper Award**—with core research in precision agriculture, self-supervised learning, and graph neural networks[cite: 1, 2]. Proven leadership driving engineering sprints, scaling multi-member teams, and automating mission-critical workflows with zero downtime[cite: 1, 2].
+
+- **Location:** 93 South Bashabo, Dhaka-1214, Bangladesh[cite: 1, 2]
+- **Languages:** English (Advanced - C1), Bengali (Native)[cite: 1]
+- **Core Research Concentration:** Graph Convolutional Networks (GCN), Self-Supervised Learning (SSL), Explainable AI (SHAP), Knowledge Graphs[cite: 1, 2]
+
+---
+
+### Dynamic Skill Matrix & Motion Ribbons
+
+#### Programming & Backend Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,html,css,django,fastapi&theme=dark" />
+</p>
+
+#### Deep Learning, Vision & MLOps Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,git,github,vscode&theme=dark" />
+</p>
+
+<!-- Kinetic Moving Ribbon for Frameworks & Tools -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=500&color=34D399&center=true&vCenter=true&width=800&lines=CORE+METHODS%3A+Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+OCR+%E2%80%A2+Knowledge+Graphs;PIPELINES%3A+RAG+Architectures+%E2%80%A2+FAISS+Embeddings+%E2%80%A2+n8n+Workflows+%E2%80%A2+Explainable+AI+(SHAP);STACK%3A+PyTorch+%E2%80%A2+TensorFlow+%E2%80%A2+Django+5+%E2%80%A2+FastAPI+%E2%80%A2+Streamlit+%E2%80%A2+Alpine.js+%E2%80%A2+HTMX" alt="Flowing Skills Ribbon" />
+</div>
+
+---
+
+### Professional Experience
+
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Role & Organization</th>
+      <th width="20%">Timeline</th>
+      <th width="45%">Key Deliverables & Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Senior Executive Data Scientist & Team Leader</b><br/><em>Join Venture Ai (JVai) / Betopia Group</em></td>
+      <td><code>06/2025 – 10/2026</code><br/>Dhaka, Bangladesh</td>
+      <td>
+        • Engineered <b>13+ production AI systems</b> (RAG chatbots, NLP classifiers, OCR tools), cutting client response latency by 40%[cite: 1, 2].<br/>
+        • Led a high-velocity <b>45+ member AI engineering division</b> through technical planning, sprints, and production shipping[cite: 1, 2].<br/>
+        • Automated multi-step <b>n8n pipelines</b> with custom webhook architectures and API chaining, saving 10 hours/week in operations[cite: 1, 2].<br/>
+        • Built machine learning-driven lead evaluation and pipeline generation engines for sales integration[cite: 2].
+      </td>
+    </tr>
+    <tr>
+      <td><b>Graduate Teaching Assistant (GTA)</b><br/><em>East West University</em></td>
+      <td><code>10/2024 – 12/2025</code><br/>Dhaka, Bangladesh</td>
+      <td>
+        • Taught graduate-level lectures and labs for <b>Statistics, AI, and Machine Learning</b> to 70+ students per semester[cite: 1, 2].<br/>
+        • Supervised and evaluated end-to-end data analysis and deep learning capstone projects for 90+ students[cite: 1, 2].
+      </td>
+    </tr>
+    <tr>
+      <td><b>Research Assistant</b><br/><em>East West University</em></td>
+      <td><code>10/2024 – 12/2025</code><br/>Dhaka, Bangladesh</td>
+      <td>
+        • Authored and co-authored <b>17 peer-reviewed academic publications</b> indexed in IEEE and Springer[cite: 1, 2].<br/>
+        • Spearheaded curation and annotation of the <b>TFP-BD benchmark dataset</b> for traffic and pedestrian tracking, published in <em>Data in Brief</em> (2025)[cite: 1, 2].
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### Featured & Upcoming Project Showcase
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎯 BhromonGhuri — Travel & Tourism Platform</h4>
-      <p><em>Modern, full-scale booking ecosystem built for dynamic Bangladeshi travel itineraries.</em></p>
+      <h4>BhromonGhuri — Travel & Tour Booking Platform</h4>
+      <p><em>Enterprise-grade travel management platform tailored for custom multi-day Bangladeshi tours and automated bookings[cite: 1].</em></p>
       <ul>
-        <li><b>Stack:</b> Django 5, HTMX, Alpine.js, Tailwind CSS</li>
-        <li><b>Core Mechanics:</b> Zero-reload live filtering, dynamic group tiering, automated custom day-by-day itineraries.</li>
-        <li><b>Payments:</b> Direct manual transaction verification for bKash & Nagad.</li>
-        <li><b>Status:</b> <code>Final Pre-Release</code></li>
+        <li><b>Stack:</b> Django 5, HTMX, Alpine.js, SQLite/PostgreSQL, Tailwind[cite: 1]</li>
+        <li><b>Key Capabilities:</b> Zero-reload filtering, live tour cost estimation, automated daily itinerary builders, and manual payment verification gateways for bKash and Nagad[cite: 1].</li>
+        <li><b>Status:</b> <code>Production Deployment Ready</code>[cite: 1]</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>⚡ Smart Mobility & Rideshare Platform (Uber/Pathao Style)</h4>
-      <p><em>Next-gen real-time driver dispatching, zone estimation, and geospatial tracking engine.</em></p>
+      <h4>Smart Mobility Platform (Uber / Pathao Architecture)</h4>
+      <p><em>Geospatial distributed mobility engine engineered for high-throughput passenger-driver matching.</em></p>
       <ul>
-        <li><b>Stack:</b> FastAPI / Django, Redis Geo, WebSockets, PostGIS</li>
-        <li><b>Core Mechanics:</b> Dynamic trip surge-pricing, geofenced automated matching, and multi-vehicle dispatch logic.</li>
-        <li><b>Status:</b> <code>Coming Soon</code></li>
+        <li><b>Stack:</b> FastAPI, WebSockets, Redis Geospatial, PostGIS, Celery</li>
+        <li><b>Key Capabilities:</b> Spatial proximity driver dispatch, dynamic route fare estimation, live telemetry streaming, and geofence surge calculation.</li>
+        <li><b>Status:</b> <code>Coming Soon / In Active Development</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>AI Invoice & Financial Voucher System</h4>
+      <p><em>Multimodal financial data extraction engine deployed for commercial accounting automation[cite: 1, 2].</em></p>
+      <ul>
+        <li><b>Tech:</b> GPT-4o Vision API, Custom Rule Parsers, Confidence Gatekeeper[cite: 1, 2]</li>
+        <li><b>Impact:</b> Extracts structured ledger line-items, auto-classifies General Ledger (GL) accounts, and maps profit centres with review thresholds[cite: 1, 2].</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>HealthRide — AI NEMT Dispatching Platform</h4>
+      <p><em>Autonomous Non-Emergency Medical Transportation voice receptionist and fleet assignment backend[cite: 1, 2].</em></p>
+      <ul>
+        <li><b>Tech:</b> GPT-4o Voice Engine, Automated Dispatching, Real-time Webhooks[cite: 1, 2]</li>
+        <li><b>Impact:</b> 24/7 autonomous call intake and real-time fleet dispatch based on 6 event triggers[cite: 1, 2].</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<details>
+<summary><b>View Additional Applied AI & Engineering Projects</b></summary>
+<br/>
 
-### 🛠️ Tech Stack & Skills
+- **RAG-Based Enterprise Intelligence System:** Deployed Retrieval-Augmented Generation pipeline across 500+ document chunks utilizing FAISS vector embeddings and OpenAI models for context-aware question answering[cite: 1, 2].
+- **Cursive Hebrew/Yiddish Handwriting OCR:** Multi-engine transcription pipeline using Claude Vision and GPT-4o with Character Error Rate (CER) performance metrics[cite: 1, 2].
+- **Eat at Home (AI Meal Estimator):** Designed regional pricing engine incorporating store-tier blending and localized ZIP-code multipliers[cite: 1, 2].
+- **Nory0929 Auto Marketplace Agent:** Multimodal generative agent utilizing Kling 2.5 and OpenAI to generate automated 25-second, 720p vehicle promotional marketing videos from static photos[cite: 1, 2].
+- **Automated n8n Video Workflow:** Chained multimodal generative APIs via n8n orchestration, reducing manual editing effort by ~80%[cite: 2].
+- **Vehicle Detection & Traffic Flow Modeling:** Deep learning object detection and spatial tracking benchmarks trained on the TFP-BD road video dataset[cite: 1, 2].
 
-<p align="left">
-  <b>Languages:</b><br/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>AI / ML & Vision:</b><br/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-YOLO-00FFFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP_&_LLMs-GPT--4o_/_Claude-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-FAISS-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Explainable_AI-SHAP-blueviolet?style=flat-square" />
-</p>
-
-<p align="left">
-  <b>Frameworks & Platforms:</b><br/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n_Automation-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-</p>
+</details>
 
 ---
 
-### 💼 Professional Experience
+### Selected Peer-Reviewed Publications & Honors
 
-#### 🔹 Senior Executive Data Scientist & Team Leader — [Join Venture Ai (JVai) / Betopia Group](https://github.com/karibshams)
-*Jun 2025 – Present*[cite: 1, 2]
-- Architected and delivered **13+ enterprise-grade AI systems** (RAG-based conversational tools, custom OCR processors, LLM-based estimation engines), cutting client response latency by 40%[cite: 1, 2].
-- Headed a **45+ member AI engineering division** across technical planning, sprint architectures, and deployment schedules[cite: 1, 2].
-- Engineered end-to-end webhook-driven **n8n workflows**, saving 10+ manual operational hours per week[cite: 1, 2].
+> **Best Paper Award (AII 2025, Washington, D.C., USA)**[cite: 1, 2]  
+> *"CodeMixEcom-Emotion: A Large-Scale Bangla-English Review Corpus and Transformer-Based Benchmark for Fine-Grained Emotion Detection."* Proceedings of the 5th International Conference on Applied Intelligence and Informatics, Springer-Nature CCIS (2025)[cite: 1, 2].
 
-#### 🔹 Graduate Teaching Assistant (GTA) — East West University
-*Oct 2024 – Dec 2025*[cite: 1, 2]
-- Delivered lectures and guided laboratory sessions for **Statistics, Machine Learning, and AI** to cohorts of 70+ students per semester[cite: 1, 2].
-- Supervised and reviewed capstone machine learning initiatives for 90+ students[cite: 1, 2].
-
-#### 🔹 Research Assistant — East West University
-*Oct 2024 – Dec 2025*[cite: 1, 2]
-- Co-authored **17 peer-reviewed papers** across medical image segmentation, agricultural monitoring, and fine-grained NLP transformers[cite: 1, 2].
-- Curated and published the open-access **TFP-BD** vehicle and pedestrian benchmark dataset (*Data in Brief*, 2025)[cite: 1, 2].
+- **Kidney CT Scan Classification:** *"Towards Annotation-Efficient Kidney CT Scan Classification: Supervised and Semi-Supervised Swin Transformer Frameworks."* IEEE SPICSCON (2025)[cite: 1, 2].
+- **Traffic Dataset Benchmark:** *"TFP-BD: An image dataset for Traffic Flow and Pedestrian movement analysis on Bangladeshi urban roads."* *Data in Brief*, Vol. 59, P.111398 (2025)[cite: 1, 2].
+- **Smart Agriculture:** *"Real-time monitoring of oyster mushroom cultivation using CCTV and attention-enhanced ShuffleNet-based explainable AI techniques."* *Smart Agricultural Technology*, Vol. 12, P.101571 (2025)[cite: 1, 2].
+- **Tuberculosis Diagnostics:** *"Tuberculosis Diagnosis from Chest X-Ray Image Using Deep Learning Techniques."* IEEE ICAECT (2025), DOI: `10.1109/ICAECT63952.2025.10958925`[cite: 1, 2].
+- **Histopathology Oncology:** *"Histopathology images-based deep learning prediction of prognosis and therapeutic response in small cell lung cancer."* Springer ICDMIS (2024)[cite: 1, 2].
+- **Explainable Pharmacology:** *"Interpretable Illness-Category Classification from Drug Attributes Using XGBoost with SHAP Explanations."* IEEE QPAIN (2025)[cite: 1].
 
 ---
 
-### 🎓 Academic Background
+### Higher Education
 
-| Degree | Institution | Major / Concentration | Period | Result |
+| Qualification | Institution | Field of Study | Session | Academic Standing |
 | :--- | :--- | :--- | :--- | :--- |
-| **M.Sc. in Computer Science & Engineering** | East West University | Data Science | Jan 2025 – Dec 2025[cite: 1, 2, 3] | **CGPA: 3.91 / 4.00**[cite: 1, 2, 3] |
-| **B.Sc. in Computer Science & Engineering** | East West University | Computer Science | Jan 2020 – Jul 2024[cite: 1, 2, 3] | **CGPA: 3.58 / 4.00**[cite: 1, 2, 3] |
+| **Master of Science (M.Sc.)** | East West University | Computer Science & Engineering *(Major: Data Science)*[cite: 1, 2, 3] | 01/2025 – 12/2025[cite: 1, 2, 3] | **CGPA: 3.91 / 4.00**[cite: 1, 2, 3] |
+| **Bachelor of Science (B.Sc.)** | East West University | Computer Science & Engineering[cite: 1, 2, 3] | 01/2020 – 07/2024[cite: 1, 2, 3] | **CGPA: 3.58 / 4.00**[cite: 1, 2, 3] |
+
+- **M.Sc. Thesis:** *Self-Supervised Learning and Graph-Refined Object Detection Framework for Precision Agriculture*[cite: 1].
+- **B.Sc. Thesis:** *Tuberculosis Diagnosis from Chest X-Ray Image Using Deep Learning Techniques*[cite: 1].
 
 ---
 
-### 📊 Real-Time GitHub & Coding Metrics
+### GitHub Telemetry & Real-Time Statistics
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karibshams&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Karib's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karibshams&show_icons=true&title_color=10B981&text_color=E2E8F0&icon_color=059669&bg_color=064e3b&hide_border=true&count_private=true" alt="Karib's GitHub Overview" />
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karibshams&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karibshams&layout=compact&title_color=10B981&text_color=E2E8F0&bg_color=064e3b&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karibshams&theme=tokyonight&hide_border=true" alt="Karib's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karibshams&stroke=059669&background=064e3b&ring=10B981&fire=34D399&currStreakLabel=10B981&hide_border=true" alt="Karib's GitHub Streak" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,32&height=90&section=footer"/>
-  <p>⚡ Designed & Maintained by <b>Karib Shams</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=059669&customColorList=059669,10B981,047857,064e3b,00dc82&height=90&section=footer" width="100%" />
 </div>
